@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Solis</h1>
 <h3 align="center">A FrontEnd Web Developer from Argentina and a programmer from OldSchool</h3>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir0s&layout=compact)
 - 💬 Ask me about **React, JavaScript, NextJS**
 
 - 📫 Contact **maty.solis87@gmail.com**
