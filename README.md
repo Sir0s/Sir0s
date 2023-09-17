@@ -6,9 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matias_Solis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-solis/)](https://www.linkedin.com/in/matias-solis/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Sir0s)](https://github.com/Sir0s)
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir0s&layout=compact)
-
-
 <h3 align="left">Languages and Tools:</h3>
 ## ⚡ Technologies
 
@@ -22,3 +19,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
+
+## ⚡ Languajes:
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir0s&layout=compact)
+
