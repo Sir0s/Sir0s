@@ -21,5 +21,9 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 
 ## ⚡ Languajes:
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir0s&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir0s&layout=compact)
+
+
+## My repositories:
+
 
