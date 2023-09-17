@@ -3,7 +3,7 @@
  
 - 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/-maty.solis87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maty.solis87@gmail.com)](mailto:maty.solis87@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Matias Solis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-solis/)](https://www.linkedin.com/in/matias-solis/)
+[![Linkedin Badge](https://img.shields.io/badge/-Matias_Solis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-solis/)](https://www.linkedin.com/in/matias-solis/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Sir0s)](https://github.com/Sir0s)
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir0s&layout=compact)
