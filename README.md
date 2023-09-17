@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matias Solis</h1>
-<h3 align="center">A FrontEnd Web Developer from Argentina</h3>
+<h3 align="center">A FrontEnd Web Developer from Argentina and a programmer from OldSchool</h3>
 
 - 💬 Ask me about **React, JavaScript, NextJS**
 
-- 📫 How to reach me **maty.solis87@gmail.com**
+- 📫 Contact **maty.solis87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
