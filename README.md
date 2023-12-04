@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matias Solis</h1>
-<h3 align="center">A FrontEnd Web Developer from Argentina and an oldSchool programmer </h3>
- 
+<h3 align="center">A FrontEnd Web Developer from Argentina and an oldSchool programmer with knowledge in C and the old Pascal and now getting to know a lot of diferent programming languages. </h3>
+<h3 aling ="center"> Cause' in this life you need a lot of tools to get the job done and always want the right tools for the right job </h3>
+
+- Currently Learning Phyton and C#
 - 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/-maty.solis87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maty.solis87@gmail.com)](mailto:maty.solis87@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Matias_Solis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-solis/)](https://www.linkedin.com/in/matias-solis/)
