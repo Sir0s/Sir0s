@@ -3,6 +3,9 @@
 <h3 aling ="center"> Because in this life you need a lot of tools to get the job done and I always want the right tool for the right job </h3>
 
 - Currently Learning Phyton and C#
+
+- Working on a new project with AI and expanded reality 
+
 - 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/-maty.solis87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maty.solis87@gmail.com)](mailto:maty.solis87@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Matias_Solis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-solis/)](https://www.linkedin.com/in/matias-solis/)
