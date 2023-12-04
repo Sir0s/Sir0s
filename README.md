@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias Solis</h1>
 <h3 align="center">A FrontEnd Web Developer from Argentina and an oldSchool programmer with knowledge in C and the old Pascal and now getting to know a lot of diferent programming languages. </h3>
-<h3 aling ="center"> Cause' in this life you need a lot of tools to get the job done and always want the right tools for the right job </h3>
+<h3 aling ="center"> Cause' in this life you need a lot of tools to get the job done and I always want the right tool for the right job </h3>
 
 - Currently Learning Phyton and C#
 - 📫 Contact 
