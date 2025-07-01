@@ -1,30 +1,51 @@
 <h1 align="center">Hi 👋, I'm Matias Solis</h1>
-<h3 align="center">A FrontEnd Web Developer from Argentina and an oldSchool programmer with knowledge in C and others, and now, getting to know a lot of diferent programming languages. </h3>
-<h3 aling ="center"> Because in this life you need a lot of tools to get the job done and I always want the right tool for the right job </h3>
+<h3 align="center">A FrontEnd Web Developer from Argentina and an oldSchool programmer with knowledge in Javascript, Python and others, and now, getting to know a lot of diferent programming languages. </h3>
+<h3 aling ="center"> Because in this line of work you need a lot of tools to get the job done.</h3>
 
-- Currently Learning Phyton and C#
 
-- Working on a new project with AI and expanded reality 
 
 - 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/-maty.solis87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maty.solis87@gmail.com)](mailto:maty.solis87@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Matias_Solis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-solis/)](https://www.linkedin.com/in/matias-solis/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Sir0s)](https://github.com/Sir0s)
 
+- 🌐 Portfolio
+
+Check out my portfolio: [sir0s-portfolio.vercel.app](https://sir0s-portfolio.vercel.app/)
+
 <h3 align="left">Languages and Tools:</h3>
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+## 🧑‍🎨 Frontend
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+## 🧠 Backend
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 
+## 🧱 Database
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ## ⚡ Languajes:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir0s&layout=compact)
 
