@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias Solis</h1>
-<h3 align="center">A FrontEnd Web Developer from Argentina and an oldSchool programmer with knowledge in Javascript, Python and others, and now, getting to know a lot of diferent programming languages. </h3>
-<h3 aling ="center"> Because in this line of work you need a lot of tools to get the job done.</h3>
-
-
+<h3 align="center">A FrontEnd Web Developer from Argentina with knowledge in Javascript, Python and others, and now, getting to know a lot of diferent programming languages. </h3>
 
 - 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/-maty.solis87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maty.solis87@gmail.com)](mailto:maty.solis87@gmail.com)
