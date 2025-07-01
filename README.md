@@ -9,7 +9,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matias_Solis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-solis/)](https://www.linkedin.com/in/matias-solis/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Sir0s)](https://github.com/Sir0s)
 
-
 - 🌐 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://sir0s-portfolio.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,8 +46,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ## ⚡ Languajes:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir0s&layout=compact)
-
-
-## My repositories:
-
 
